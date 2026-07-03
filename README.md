@@ -1,4 +1,4 @@
-# 🔥 欢迎来到 TYF 的数字矩阵 🌐
+# 🔥 欢迎来到bytuyifan的数字矩阵 🌐
 
 <p align="center">
   <img src="https://img.shields.io/badge/CYBER-SPACE-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="Cyber Space" />
@@ -65,10 +65,7 @@
 ## 🤝 联系我
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-your.email@example.com-00ffff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/WEBSITE-yourwebsite.com-ff00ff?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+  <a href="tuyifanfan@gmail.com">
+    <img src="https://img.shields.io/badge/tuyifanfan@gmail.com-00ffff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
