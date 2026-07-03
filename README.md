@@ -14,4 +14,3 @@
 [Role]      3D Visualization Specialist & Frontend Engineer
 [Focus]     CesiumJS / Three.js / Digital Twins / Component Encapsulation
 [Mission]   Transforming raw multi-dimensional data into stunning visual reality.
-[Projects]  Drone Tactical Management Platform (天眼快线) & Embodied AI Centers
